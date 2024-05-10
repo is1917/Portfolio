@@ -4,5 +4,5 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Платежная система]([https://github.com/is1917/Portfolio/edit/main]) | Архитектура платежной системы | python, java, kafka, openAPI, Grafana    |
+| 1.   | [Платежная система]([https://github.com/is1917/Portfolio/edit/main]) | Архитектура платежной системы https://github.com/is1917/Portfolio/blob/main/Payment%20System.png | python, java, kafka, openAPI, Grafana    |
 
