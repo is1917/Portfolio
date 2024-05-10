@@ -2,7 +2,7 @@
 Примеры проектов
 
 
-| #    | Наименование проекта                | Описание                                                     | Стек                                                         |
+| #    | Общая схема решения               | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Платежная система](https://github.com/is1917/Portfolio/blob/main/Payment.md) | Архитектура платежной системы https://github.com/is1917/Portfolio/blob/main/Payment%20System.png | python, java, kafka, openAPI, Grafana    |
+| 1.   | [Платежная система](https://github.com/is1917/Portfolio/blob/main/Payment%20System.png)| [Архитектура платежной системы](https://github.com/is1917/Portfolio/blob/main/Payment.md) | python, java, kafka, openAPI, Grafana    |
 
