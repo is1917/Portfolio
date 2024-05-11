@@ -12,7 +12,7 @@
 | #    | Ссылка               | 
 | ---- | ------------------------------------------------------------ | 
 | 1.   | [Блог в Дзене](https://dzen.ru/itsolovev)|
-| 1.   | [Благодарности за реализованные ETL проекты и дашборды на profi.ru](https://nnov.profi.ru/profile/SolovevIA28/)|
-| 1.   | [Программа прокачки системных аналитиков на hh.ru](https://hh.ru/mentors/6197/)|
-| 1.   | [Сайт визитка](http://schoolsys.ru.tilda.ws/)|
-| 1.   | [Telegram](https://t.me/iaSolovev)|
+| 2.   | [Благодарности за реализованные ETL проекты и дашборды на profi.ru](https://nnov.profi.ru/profile/SolovevIA28/)|
+| 3.   | [Программа прокачки системных аналитиков на hh.ru](https://hh.ru/mentors/6197/)|
+| 4.   | [Сайт визитка](http://schoolsys.ru.tilda.ws/)|
+| 5.   | [Telegram](https://t.me/iaSolovev)|
